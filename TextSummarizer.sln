@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2036
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSummarizer", "TextSummarizer\TextSummarizer.csproj", "{80E0F06C-15AC-4399-8716-941F5F8C24D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSummarizer", "PageRank\TextSummarizer.csproj", "{D1F24622-4DB2-4E31-9974-614BC6C08CEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80E0F06C-15AC-4399-8716-941F5F8C24D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80E0F06C-15AC-4399-8716-941F5F8C24D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80E0F06C-15AC-4399-8716-941F5F8C24D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80E0F06C-15AC-4399-8716-941F5F8C24D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F24622-4DB2-4E31-9974-614BC6C08CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F24622-4DB2-4E31-9974-614BC6C08CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F24622-4DB2-4E31-9974-614BC6C08CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F24622-4DB2-4E31-9974-614BC6C08CEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0F5FEABB-4530-48C2-9F9A-44C7E6B76B72}
 	EndGlobalSection
 EndGlobal
